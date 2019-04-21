@@ -1,0 +1,20 @@
+2019-04-20 01:41:21.826  INFO 20728 --- [main] c.e.e.ElkKafkaDbStarterApplicationTests  : Starting ElkKafkaDbStarterApplicationTests on LAPTOP-R9K6EOBL with PID 20728 (started by Afzal in D:\Spring\test\elk-kafka-db-starter)
+2019-04-20 01:41:21.829  INFO 20728 --- [main] c.e.e.ElkKafkaDbStarterApplicationTests  : No active profile set, falling back to default profiles: default
+2019-04-20 01:41:22.906  INFO 20728 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$caf1dfa0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 01:41:23.940  INFO 20728 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-20 01:41:24.375  INFO 20728 --- [main] c.e.e.ElkKafkaDbStarterApplicationTests  : Started ElkKafkaDbStarterApplicationTests in 2.825 seconds (JVM running for 3.79)
+2019-04-20 01:41:24.552  INFO 20728 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-20 01:41:41.327  INFO 23128 --- [main] c.e.e.ElkKafkaDbStarterApplication       : Starting ElkKafkaDbStarterApplication on LAPTOP-R9K6EOBL with PID 23128 (D:\Spring\test\elk-kafka-db-starter\target\classes started by Afzal in D:\Spring\test\elk-kafka-db-starter)
+2019-04-20 01:41:41.330  INFO 23128 --- [main] c.e.e.ElkKafkaDbStarterApplication       : No active profile set, falling back to default profiles: default
+2019-04-20 01:41:42.304  INFO 23128 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$5bffb7b5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 01:41:43.142  INFO 23128 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-20 01:41:43.183  INFO 23128 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-20 01:41:43.183  INFO 23128 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-20 01:41:43.291  INFO 23128 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-20 01:41:43.291  INFO 23128 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1910 ms
+2019-04-20 01:41:43.981  INFO 23128 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-20 01:41:44.605  INFO 23128 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-20 01:41:44.609  INFO 23128 --- [main] c.e.e.ElkKafkaDbStarterApplication       : Started ElkKafkaDbStarterApplication in 3.602 seconds (JVM running for 6.607)
+2019-04-20 01:42:29.132  INFO 23128 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-20 01:42:29.132  INFO 23128 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-04-20 01:42:29.153  INFO 23128 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 21 ms
